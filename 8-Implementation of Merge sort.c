@@ -95,3 +95,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+PS D:\DSA PROGRAM> cd "d:\DSA PROGRAM\" ; if ($?) { gcc main8.c -o main8 } ; if ($?) { .\main8 }
+Given array is
+125 181 130 25 61 887
+
+Sorted array is
+25 61 125 130 181 887 
